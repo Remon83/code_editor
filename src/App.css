@@ -1,0 +1,7 @@
+.app {
+  display: flex;
+}
+.editors_containers {
+  width: 40%;
+  padding: 10px;
+}

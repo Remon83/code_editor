@@ -1,0 +1,10 @@
+.editors_containers .langContainer {
+  margin-bottom: 5px;
+}
+
+.editorTitle {
+  background-color: #1817179e;
+  padding: 5px;
+  color: white;
+  font-size: 16px;
+}

@@ -1,0 +1,13 @@
+.output {
+  width: 60%;
+  margin-top: 10px;
+  padding-left: 10px;
+  border-left: 2px solid #ccc;
+}
+.outputTitle {
+  background-color: #1817179e;
+  padding: 10px;
+  color: white;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
